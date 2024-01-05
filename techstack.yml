@@ -1,7 +1,8 @@
 repo_name: swadhin1515/jabref
 report_id: 7060e20634a36e697f9c98b67da696a0
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:27:36+00:00'
+timestamp: '2024-01-05T08:58:50+00:00'
 requested_by: Siedlerchr
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Groovy
   description: A multi-faceted language for the Java platform
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/buildres/setup-test-oracle.sql
   detection_source: buildres/setup-test-oracle.sql
   last_updated_by: Oliver Kopp
   last_updated_on: 2019-12-05 20:26:24.000000000 Z
@@ -75,6 +82,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-12 14:54:03.000000000 Z
@@ -86,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/codecov.yml
   detection_source: codecov.yml
   last_updated_by: Simon Harrer
   last_updated_on: 2016-05-09 13:24:30.000000000 Z
@@ -98,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/docs/Dockerfile
   detection_source: docs/Dockerfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2022-11-06 21:42:06.000000000 Z
@@ -109,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -118,7 +129,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/upload-release.yml"
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/.github/workflows/GreetingFirstTimeCodeContribution.yml
+  detection_source: ".github/workflows/GreetingFirstTimeCodeContribution.yml"
   last_updated_by: ThiloteE
   last_updated_on: 2022-10-23 09:51:32.000000000 Z
 - name: Gradle
@@ -130,7 +142,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/build.gradle
+  detection_source: build.gradle
   last_updated_by: Oliver Kopp
   last_updated_on: 2021-05-03 21:35:55.000000000 Z
 - name: JUnit
@@ -142,6 +155,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/src/test/resources/junit-platform.properties
   detection_source: src/test/resources/junit-platform.properties
   last_updated_by: Oliver Kopp
   last_updated_on: 2023-01-04 14:03:49.000000000 Z
@@ -155,7 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
-  detection_source_url: build.gradle
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-01-16 14:01:58.000000000 Z
@@ -169,8 +183,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source_url: buildres/csl/csl-locales/Gemfile.lock
-  detection_source: buildres/csl/csl-styles/Gemfile
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/buildres/csl/csl-locales/Gemfile.lock
+  detection_source: buildres/csl/csl-locales/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2021-01-06 19:05:25.000000000 Z
 - name: RubyGems
@@ -181,6 +195,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2022-04-29 17:11:28.000000000 Z
@@ -192,7 +207,8 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
-  detection_source: buildSrc/build.gradle
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/build.gradle
+  detection_source: build.gradle
   last_updated_by: Simon Harrer
   last_updated_on: 2014-03-12 17:20:08.000000000 Z
 - name: ANTLR
@@ -202,6 +218,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Jekyll
   description: Blog-aware, static site generator in Ruby
@@ -213,7 +230,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source_url: docs/Gemfile
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2022-11-10 23:32:23.000000000 Z
@@ -225,6 +242,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -235,6 +253,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
@@ -243,6 +262,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/swadhin1515/jabref
   detection_source: Repo Metadata
 - name: fuubar
   description: The instafailing RSpec progress bar formatter
@@ -254,8 +274,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18940/default_ec64e7b00489c2b012b637eba2526e31e442c25b.png
-  detection_source_url: buildres/csl/csl-locales/Gemfile.lock
-  detection_source: buildres/csl/csl-styles/Gemfile
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/buildres/csl/csl-locales/Gemfile.lock
+  detection_source: buildres/csl/csl-locales/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2021-01-06 19:05:25.000000000 Z
 - name: nokogiri
@@ -268,8 +288,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
-  detection_source_url: buildres/csl/csl-locales/Gemfile.lock
-  detection_source: buildres/csl/csl-styles/Gemfile
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/buildres/csl/csl-locales/Gemfile.lock
+  detection_source: buildres/csl/csl-locales/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2021-01-06 19:05:25.000000000 Z
   vulnerabilities:
@@ -307,7 +327,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source_url: buildres/csl/csl-locales/Gemfile.lock
-  detection_source: buildres/csl/csl-styles/Gemfile
+  detection_source_url: https://github.com/swadhin1515/jabref/blob/main/buildres/csl/csl-locales/Gemfile.lock
+  detection_source: buildres/csl/csl-locales/Gemfile
   last_updated_by: Oliver Kopp
   last_updated_on: 2021-01-06 19:05:25.000000000 Z
