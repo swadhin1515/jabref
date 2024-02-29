@@ -2,7 +2,7 @@ repo_name: swadhin1515/jabref
 report_id: 7060e20634a36e697f9c98b67da696a0
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:58:50+00:00'
+timestamp: '2024-02-29T18:29:32+00:00'
 requested_by: Siedlerchr
 provider: github
 branch: main
@@ -305,18 +305,24 @@ tools:
     detected_date: May 19
     severity: high
     first_patched: 1.13.5
-  - name: Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-pxvg-2qj5-37jq
-    detected_date: Apr 12
-    severity: moderate
-    first_patched: 1.14.3
   - name: Update bundled libxml2 to v2.10.3 to resolve multiple CVEs
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-2qc6-mcvw-92cw
     detected_date: Oct 18
     severity: moderate
     first_patched: 1.13.9
+  - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
+    detected_date: Feb 6
+    severity: moderate
+    first_patched: 1.16.2
+  - name: Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-pxvg-2qj5-37jq
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: 1.14.3
 - name: rake
   description: Rake is a Make-like program implemented in Ruby
   package_url: https://rubygems.org/rake
